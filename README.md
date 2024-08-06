@@ -14,4 +14,5 @@ To run the project you just have to import the project in Vscode and click on "G
 
 ## Screenshots
 
-![Screenshot 2024-08-04 005709](https://github.com/user-attachments/assets/01d5532a-f3de-43e7-9b65-9e89759cd01c)
+![Screenshot 2024-08-04 005709](https://github.com/user-attachments/assets/359140a9-447f-4afb-867f-8f908942a4c5)
+
