@@ -12,7 +12,7 @@ const changeTurn = ()=>{
 
 // Function to check for a win
 const checkWin = ()=>{
-    let boxtext = document.getElementsByClassName('boxtext');
+    let boxtext = document.getElementsByClassName('boxtext'); 
     let wins = [
         [0, 1, 2, 5, 5, 0],
         [3, 4, 5, 5, 15, 0],
