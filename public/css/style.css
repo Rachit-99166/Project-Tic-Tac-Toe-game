@@ -90,7 +90,7 @@ nav ul{
     font-size: 8vw;
     cursor: pointer;
     display: flex;
-    justify-content: center;
+    justify-content: center; 
     align-items: center;
 }
 
